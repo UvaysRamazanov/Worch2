@@ -1,6 +1,5 @@
 package com.worch.model.entity;
 
-
 import com.worch.model.enums.ChoiceStatus;
 import com.worch.model.enums.converter.ChoiceStatusConverter;
 import jakarta.persistence.Column;
@@ -17,7 +16,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.CreationTimestamp;
-
 
 @AllArgsConstructor
 @NoArgsConstructor
