@@ -14,7 +14,7 @@ import lombok.Setter;
 @Builder
 public class CreateChannelRequest {
 
-    private String name;
+    private String name; // name
 
     private String description;
 
