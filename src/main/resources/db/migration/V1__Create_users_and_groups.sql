@@ -6,7 +6,7 @@
  *
  * Author: Uvays Ramazanov
  * Version: 1.0
- * Created: 2025-10-20
+ * Created: 2025-10-20.
  *
  * This migration establishes the foundation for user authentication and
  * group-based authorization system with built-in data integrity constraints
